@@ -1,5 +1,6 @@
 # Curso de Introdução à Orientação a Objetos
-Slides de aula para ajudar o aluno a revisar o conteúdo sobre Orientação a Objetos utilizando a linguagem Java.
+
+A pasta "**materiais**" contém slides de aula para ajudar o aluno no aprendizado da Orientação a Objetos utilizando na linguagem Java.
 
 > [!IMPORTANT]
 > Este curso está em construção.
